@@ -1,0 +1,43 @@
+
+* {
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color: azure;
+}
+
+h1 {
+
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.image{
+    width: 1800px;
+    height: 100px;
+}
+
+
+.link{
+    color: rgb(255, 111, 0);
+
+}
+
+.box-blue{
+   text-align: center;
+
+}
+
+.box {
+background-color: rgb(0, 0, 0);
+}
+
+
+p {
+    font-style: italic;
+    text-align: end;
+
+}
